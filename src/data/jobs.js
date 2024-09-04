@@ -6,9 +6,9 @@ const jobs = [
     description: [
       "Implemented features for dbt Explorer using React, Django, and GraphQL",
       "Collaborated closely with engineers and product managers to understand requirements and build quality solutions",
-      "Participated in code reviews and provide constructive feedback to maintain code quality",
+      "Participated in code reviews and provide constructive feedback to maintain code quality"
     ],
-    url: "https://getdbt.com/",
+    url: "https://getdbt.com/"
   },
   {
     workplace: "SailPoint",
@@ -18,9 +18,9 @@ const jobs = [
       "Developed large-scale features for Workflows, a low-code automation platform built with Go, resulting in increased usage of SailPoint APIs",
       "Re-architected execution flow to improve DynamoDB read/write patterns, leading to 38% increased throughput and 53% cost savings",
       "Led development project of actions versioning feature, enabling team to develop/patch new & existing actions without risk",
-      "Successfully rolled out operational improvements to various teams",
+      "Successfully rolled out operational improvements to various teams"
     ],
-    url: "https://sailpoint.com/",
+    url: "https://sailpoint.com/"
   },
   {
     workplace: "Citi",
@@ -29,9 +29,9 @@ const jobs = [
     description: [
       "Migrated legacy infrastructure from monolithic architecture into microservices, resulting in a 32.6% processing time decrease",
       "Created internal dev tools using Angular and Java/Spring, yielding a 15.6% productivity increase",
-      "Managed a team of 4 software developers to build portfolio management service PoC with React",
+      "Managed a team of 4 software developers to build portfolio management service PoC with React"
     ],
-    url: "https://www.citigroup.com/citi/",
+    url: "https://www.citigroup.com/citi/"
   },
   {
     workplace: "Citylitics",
@@ -40,9 +40,9 @@ const jobs = [
     description: [
       "Overhauled querying engine by developing highly requested features using React and Redux, improving lead generation efficiency by 150%",
       "Implemented RESTful APIs using Django to allow for storage of consumer data, generating a 30% increase in size of key dataset in just 90 days",
-      "Wrote tests in Jest verifying standard user flows, increasing code coverage to 78%",
+      "Wrote tests in Jest verifying standard user flows, increasing code coverage to 78%"
     ],
-    url: "https://citylitics.com/",
+    url: "https://citylitics.com/"
   },
   {
     workplace: "U of T",
@@ -51,8 +51,8 @@ const jobs = [
     description: [
       "Created microservices assignment using Java backend APIs with a JavaScript/React frontend, built and deployed with Docker",
       "Provided technical mentorship for multiple full stack projects over a 4-month scrum development cycle",
-      "Answered questions on course forums with 1000+ students, with 3rd highest contributions amongst TAs",
-    ],
+      "Answered questions on course forums with 1000+ students, with 3rd highest contributions amongst TAs"
+    ]
   },
   {
     workplace: "PAL Lab",
@@ -61,10 +61,10 @@ const jobs = [
     description: [
       "Implemented tooling for researchers enabling subject/robot engagement, leveraging Furhat API",
       "Developed a React web application for researchers to remotely control run robot actions",
-      "Designed the PAL Lab website",
+      "Designed the PAL Lab website"
     ],
-    url: "https://www.psycholinguistics.ca/",
-  },
+    url: "https://www.psycholinguistics.ca/"
+  }
 ];
 
 export default jobs;

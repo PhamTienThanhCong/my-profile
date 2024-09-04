@@ -9,9 +9,9 @@ const projects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/jcserv/ulinks",
-      },
-    ],
+        url: "https://github.com/jcserv/ulinks"
+      }
+    ]
   },
   {
     name: "UTM TA Application System",
@@ -23,9 +23,9 @@ const projects = [
       {
         label: "Website",
         icon: "link",
-        url: "https://utap.utm.utoronto.ca/utap/",
-      },
-    ],
+        url: "https://utap.utm.utoronto.ca/utap/"
+      }
+    ]
   },
   {
     name: "PostureAI",
@@ -38,20 +38,20 @@ const projects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/jcserv/PostureAI",
+        url: "https://github.com/jcserv/PostureAI"
       },
       {
         label: "Demo",
         icon: "youtube",
-        url: "https://www.youtube.com/watch?v=SqUmP6npKYM",
+        url: "https://www.youtube.com/watch?v=SqUmP6npKYM"
       },
       {
         label: "Devpost",
         icon: "devpost",
-        url: "https://devpost.com/software/placeholder-9gjdst",
-      },
-    ],
-  },
+        url: "https://devpost.com/software/placeholder-9gjdst"
+      }
+    ]
+  }
 ];
 
 export const extraProjects = [
@@ -65,9 +65,9 @@ export const extraProjects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/jcserv/vu-mi",
-      },
-    ],
+        url: "https://github.com/jcserv/vu-mi"
+      }
+    ]
   },
   {
     name: "mjurl",
@@ -78,23 +78,22 @@ export const extraProjects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/jcserv/mjurl",
-      },
-    ],
+        url: "https://github.com/jcserv/mjurl"
+      }
+    ]
   },
   {
     name: "SQL Automarker",
     type: "Research",
-    description:
-      "Microservices architecture enabling SQL automarking with admin panel",
+    description: "Microservices architecture enabling SQL automarking with admin panel",
     tech: ["React", "Node.js", "MongoDB", "Docker"],
     links: [
       {
         label: "Project",
         icon: "link",
-        url: "https://www.michaelliut.ca/projects.html",
-      },
-    ],
+        url: "https://www.michaelliut.ca/projects.html"
+      }
+    ]
   },
   {
     name: "ResumeWords",
@@ -106,28 +105,27 @@ export const extraProjects = [
       {
         label: "Website",
         icon: "link",
-        url: "https://resume-words.com/",
+        url: "https://resume-words.com/"
       },
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/ShahmeerShahid/ResumeWords",
-      },
-    ],
+        url: "https://github.com/ShahmeerShahid/ResumeWords"
+      }
+    ]
   },
   {
     name: "AnonBot",
     type: "Personal",
-    description:
-      "Discord bot for anonymous messaging, with 10 000+ messages sent",
+    description: "Discord bot for anonymous messaging, with 10 000+ messages sent",
     tech: ["Node.js"],
     links: [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/white-van/WVAnonBot",
-      },
-    ],
+        url: "https://github.com/white-van/WVAnonBot"
+      }
+    ]
   },
   {
     name: "Citrade",
@@ -139,14 +137,14 @@ export const extraProjects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/jcserv/citrade-frontend",
+        url: "https://github.com/jcserv/citrade-frontend"
       },
       {
         label: "Website",
         icon: "link",
-        url: "https://main.d2mbmzkt6yj28g.amplifyapp.com/",
-      },
-    ],
+        url: "https://main.d2mbmzkt6yj28g.amplifyapp.com/"
+      }
+    ]
   },
   {
     name: "UTM CSSC Website",
@@ -158,52 +156,50 @@ export const extraProjects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/utm-cssc/website",
+        url: "https://github.com/utm-cssc/website"
       },
       {
         label: "Website",
         icon: "link",
-        url: "https://cssc.utm.utoronto.ca/",
-      },
-    ],
+        url: "https://cssc.utm.utoronto.ca/"
+      }
+    ]
   },
   {
     name: "CollabCloud",
     type: "School",
-    description:
-      "Social networking platform allowing users to find collaborators for software projects.",
+    description: "Social networking platform allowing users to find collaborators for software projects.",
     tech: ["React", "Node.js", "PostgreSQL"],
     links: [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/collabcloud/project-collabcloud",
+        url: "https://github.com/collabcloud/project-collabcloud"
       },
       {
         label: "Demo",
         icon: "youtube",
-        url: "https://youtu.be/bPAOhb8r5Co",
-      },
-    ],
+        url: "https://youtu.be/bPAOhb8r5Co"
+      }
+    ]
   },
   {
     name: "freeflo.io",
     type: "Hackathon",
-    description:
-      "Full stack web application enabling collaborative & open source journalism",
+    description: "Full stack web application enabling collaborative & open source journalism",
     tech: ["React", "Redux", "Next.js"],
     links: [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/white-van/freeflo.io",
+        url: "https://github.com/white-van/freeflo.io"
       },
       {
         label: "Demo",
         icon: "youtube",
-        url: "https://www.youtube.com/watch?v=pXDF2kgQGtk",
-      },
-    ],
+        url: "https://www.youtube.com/watch?v=pXDF2kgQGtk"
+      }
+    ]
   },
   {
     name: "Portfolio V1",
@@ -214,14 +210,14 @@ export const extraProjects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/jcserv/portfoliov1",
+        url: "https://github.com/jcserv/portfoliov1"
       },
       {
         label: "Website",
         icon: "link",
-        url: "https://infinite-inlet-11529.herokuapp.com/",
-      },
-    ],
+        url: "https://infinite-inlet-11529.herokuapp.com/"
+      }
+    ]
   },
   {
     name: "HarMoney",
@@ -232,19 +228,19 @@ export const extraProjects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/matthuynh/harmoney",
+        url: "https://github.com/matthuynh/harmoney"
       },
       {
         label: "Demo",
         icon: "youtube",
-        url: "https://youtu.be/s13y0c__6u4",
+        url: "https://youtu.be/s13y0c__6u4"
       },
       {
         label: "Devpost",
         icon: "devpost",
-        url: "https://devpost.com/software/harmoney-ci42yp",
-      },
-    ],
+        url: "https://devpost.com/software/harmoney-ci42yp"
+      }
+    ]
   },
   {
     name: "InsurApp",
@@ -255,43 +251,41 @@ export const extraProjects = [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/jcserv/InsurApp",
-      },
-    ],
+        url: "https://github.com/jcserv/InsurApp"
+      }
+    ]
   },
   {
     name: "VapeSafe",
     type: "Hackathon",
-    description:
-      "Mobile + hardware solution allowing users to quit vaping, won 3rd Place",
+    description: "Mobile + hardware solution allowing users to quit vaping, won 3rd Place",
     tech: ["Android Studio", "Arduino"],
     links: [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/leviaviv28/VapeSafe-EngHack2019",
+        url: "https://github.com/leviaviv28/VapeSafe-EngHack2019"
       },
       {
         label: "Devpost",
         icon: "devpost",
-        url: "https://devpost.com/software/vapesafe/",
-      },
-    ],
+        url: "https://devpost.com/software/vapesafe/"
+      }
+    ]
   },
   {
     name: "ETH-Aion Atomic Swap",
     type: "Hackathon",
-    description:
-      "Atomic swap protocol for ETH & Aion cryptocurrencies, earning Top 6",
+    description: "Atomic swap protocol for ETH & Aion cryptocurrencies, earning Top 6",
     tech: ["Java"],
     links: [
       {
         label: "Github",
         icon: "github",
-        url: "https://github.com/jcserv/AtomicSwap",
-      },
-    ],
-  },
+        url: "https://github.com/jcserv/AtomicSwap"
+      }
+    ]
+  }
 ];
 
 export default projects;

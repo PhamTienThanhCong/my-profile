@@ -19,7 +19,7 @@ const Bio = ({ secondary }) => (
   <GridItem>
     <VStack m="auto" w="75%" spacing="12px" pt="5%">
       <Text>
-        Hi, I&apos;m Jarrod! I studied computer science at the University of Toronto, and I&apos;m currently working at{" "}
+        Hi, I'm Jarrod! I studied computer science at the University of Toronto, and I'm currently working at{" "}
         <Link href="https://www.getdbt.com/" isExternal>
           dbt Labs
         </Link>{" "}
@@ -27,7 +27,7 @@ const Bio = ({ secondary }) => (
         <Link href="https://www.getdbt.com/product/dbt-explorer" isExternal>
           Metadata team
         </Link>
-        . Prior to that, I&apos;ve worked at{" "}
+        . Prior to that, I've worked at{" "}
         <Link href="https://www.sailpoint.com/" isExternal>
           SailPoint
         </Link>
@@ -42,8 +42,8 @@ const Bio = ({ secondary }) => (
         as a <strong style={{ color: secondary }}>Software Developer</strong>.
       </Text>
       <Text>
-        I enjoy creating scalable & elegant web/mobile applications that have a real world impact. I&apos;m always
-        learning new technologies, either through{" "}
+        I enjoy creating scalable & elegant web/mobile applications that have a real world impact. I'm always learning
+        new technologies, either through{" "}
         <Link href="https://devpost.com/jcserv" isExternal>
           hackathons
         </Link>{" "}

@@ -17,7 +17,7 @@ import SectionContainer from "../SectionContainer";
 
 const Bio = ({ secondary }) => (
   <GridItem>
-    <VStack m="auto" w="75%" spacing="12px" pt="5%">
+    <VStack m="auto" w={{ base: "100%", md: "75%" }} spacing="12px" pt="5%">
       <Text>
         Hi, I'm Jarrod! I studied computer science at the University of Toronto, and I'm currently working at{" "}
         <Link href="https://www.getdbt.com/" isExternal>
@@ -63,8 +63,10 @@ const Headshot = () => (
   <GridItem>
     <Image
       m="auto"
-      src="/me.jpg"
-      alt="Jarrod Servilla"
+      src="/profile/me.jpg"
+      alt="Phạm Công"
+      w={"100%"}
+      maxW={"450px"}
       zIndex={1}
       className="image"
       onClick={() => {

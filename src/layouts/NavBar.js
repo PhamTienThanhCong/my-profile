@@ -45,7 +45,7 @@ const navBtns = [
 ];
 
 const Logo = () => {
-  const logo = useColorModeValue("/logo.png", "/logo-dark.png");
+  const logo = useColorModeValue("/logo/logo.png", "/logo/logo-dark.png");
   return (
     <Box m="2">
       <img alt="" src={logo} width="60" height="60" onClick={scroll.scrollToTop} />

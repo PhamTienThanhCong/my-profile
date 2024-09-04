@@ -65,11 +65,11 @@ const ProjectContent = ({ alternate, name, subtitle, description, pic, tech, lin
 
 const Project = ({ index, shouldAlternate, ...props }) => (
   <Fade>
-    <Flex direction="row" justify="center" align="center" height="70vh">
-      <VStack w="50%" align="center" justify="center">
+    <Flex direction={{ base: "column", md: "row" }} justify="center" align="center" height="70vh">
+      <VStack w={{ base: "100%", md: "50%" }} align="center" justify="center">
         <ProjectContent alternate={shouldAlternate ? index % 2 === 0 : false} {...props} />
       </VStack>
-      <VStack w="50%" align="center" justify="center">
+      <VStack w={{ base: "100%", md: "50%" }} align="center" justify="center">
         <ProjectContent alternate={shouldAlternate ? index % 2 === 1 : true} {...props} />
       </VStack>
     </Flex>

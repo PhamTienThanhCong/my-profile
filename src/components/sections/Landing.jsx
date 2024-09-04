@@ -19,7 +19,7 @@ export default function Landing() {
   const header = (
     <div className={styles.center}>
       <h1 className={styles.tagline} style={{ color: primary }}>
-        Hi, I&apos;m Jarrod Servilla,{" "}
+        Hi, I'm Cong Pham,{" "}
       </h1>
       <h1 className={styles.tagline} style={{ color: primary }}>
         {" "}

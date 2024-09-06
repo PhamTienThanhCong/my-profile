@@ -24,6 +24,7 @@ import { animateScroll as scroll, Link as ScrollLink } from "react-scroll";
 import Sticky from "react-stickynode";
 
 import { colors } from "../theme";
+import { useTranslations } from "next-intl";
 
 const navBtns = [
   {
@@ -60,11 +61,12 @@ const MenuToggle = ({ isOpen, onOpen }) => (
 );
 
 const NavButtons = ({ size, onClose }) => {
+  const t = useTranslations("Header");
   const btns = navBtns.map((btn) => (
     <Button key={btn.label} size={size} variant="link" mb={2} mx={3} onClick={onClose}>
       {btn.href ? (
         <Link href={btn.href} isExternal>
-          {btn.label}
+          {t(btn.label)}
         </Link>
       ) : (
         <ScrollLink
@@ -76,7 +78,7 @@ const NavButtons = ({ size, onClose }) => {
           duration={500}
           onClick={onClose}
         >
-          {btn.label}
+          {t(btn.label)}
         </ScrollLink>
       )}
     </Button>
@@ -85,15 +87,16 @@ const NavButtons = ({ size, onClose }) => {
 };
 
 const ColorModeButton = ({ mr }) => {
+  const t = useTranslations("Header");
   const { toggleColorMode } = useColorMode();
   const SwitchIcon = useColorModeValue(FaMoon, FaSun);
   const nextMode = useColorModeValue("dark", "light");
   return (
-    <Tooltip label={`Toggle ${nextMode} mode`} aria-label={`Toggle ${nextMode} mode`}>
+    <Tooltip label={t(`Toggle ${nextMode} mode`)} aria-label={t(`Toggle ${nextMode} mode`)}>
       <IconButton
         size="md"
         fontSize="lg"
-        aria-label={`Toggle ${nextMode} mode`}
+        aria-label={t(`Toggle ${nextMode} mode`)}
         variant="ghost"
         color="current"
         onClick={toggleColorMode}
@@ -142,6 +145,7 @@ export default function Navbar() {
         as="header"
         w="100%"
         direction={["row", "row", "row", "row"]}
+        px={{ base: 0, md: 4 }}
         alignItems="center"
         justifyContent="center"
         bg={primary}

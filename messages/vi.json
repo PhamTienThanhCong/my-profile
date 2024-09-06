@@ -1,0 +1,11 @@
+{
+  "Header": {
+    "About": "Giới thiệu",
+    "Experience": "Kinh nghiệm",
+    "Projects": "Dự án",
+    "Contact": "Liên hệ",
+    "Blog": "Blog",
+    "Toggle dark mode": "Chuyển sang chế độ tối",
+    "Toggle light mode": "Chuyển sang chế độ sáng"
+  }
+}

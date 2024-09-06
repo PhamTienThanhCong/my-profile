@@ -7,6 +7,7 @@ import Projects from "@/components/sections/Projects";
 import styles from "@/styles/Home.module.css";
 import META_DATA from "./metaData";
 import { APP_URL } from "@/constants/AppConfig";
+// import { useTranslations } from "next-intl";
 export const metadata = {
   title: `${META_DATA.TITLE}`,
   description: META_DATA.DESCRIPTION,
@@ -22,6 +23,7 @@ export const metadata = {
   }
 };
 const HomePage = () => {
+  // const t = useTranslations("HomePage");
   return (
     <div className={styles.container}>
       <Landing />

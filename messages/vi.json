@@ -50,6 +50,23 @@
 
     "ics_description_1": "Tìm hiểu các nguyên lý cơ bản của AI.",
     "ics_description_2": "Phát triển các mô hình AI đơn giản."
+  },
+  "Projects": {
+    "Featured Projects": "Dự án nổi bật",
+    "Timedle_description": "Timedle là một trò chơi về lịch sử sáng tạo, biến việc học thành một cuộc phiêu lưu hàng ngày. Mỗi ngày, một câu hỏi lịch sử mới được đăng tải để thách thức kiến thức của học sinh và giúp họ tích điểm một cách thú vị và tương tác.",
+    "Timedle_subtitle": "Xếp hạng #1 trên Google cho 'Timedle'",
+    "GeographyGame_description": "A Game of Geography đưa học sinh vào một hành trình khám phá thế giới thông qua những câu hỏi địa lý hàng ngày. Mỗi câu hỏi mới sẽ giúp người chơi khám phá thêm về địa lý trong khi tranh tài để tích điểm.",
+    "GeographyGame_subtitle": "Tổng hợp các trò chơi địa lý hàng đầu",
+    "RandomCity_description": "Random City Generator tạo ra các thành phố bằng cách sinh tên, dân số và quốc gia ngẫu nhiên. Đây là công cụ hoàn hảo cho những người xây dựng thế giới và những người đam mê địa lý.",
+    "RandomCity_subtitle": "Kết quả hàng đầu trên Google cho 'random city generator'",
+    "PersonalWebsite_description": "Đây là trang cá nhân của tôi, trưng bày các dự án, kỹ năng và sự phát triển chuyên nghiệp của tôi. Được xây dựng bằng Next.js và Chakra UI, trang này hỗ trợ đa ngôn ngữ, thể hiện niềm đam mê của tôi đối với sự hợp tác toàn cầu.",
+    "PersonalWebsite_subtitle": "Thiết kế tùy chỉnh dựa trên 'Jarrod Servilla'"
+  },
+  "Contact Me": {
+    "Contact Me": "Liên hệ",
+    "Title 1": "Cho dù đó là một cơ hội việc làm, một lời mời uống cà phê,",
+    "Title 2": "hoặc chỉ đơn giản là một cuộc trò chuyện, Hãy liên hệ với tôi!",
+    "Send Email": "Gửi Email"
   }
   
 }

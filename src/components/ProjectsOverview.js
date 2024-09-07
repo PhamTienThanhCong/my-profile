@@ -6,6 +6,7 @@ import projects from "@/data/projects";
 import { colors } from "@/theme";
 import Tech from "./Tech";
 import LinkIconBar from "@/layouts/LinkIconBar";
+import { useTranslations } from "next-intl";
 
 const Card = ({ name, subtitle, description, links }) => {
   const bg = useColorModeValue(colors.bg.light, colors.bg.dark);
@@ -63,18 +64,31 @@ const ProjectContent = ({ alternate, name, subtitle, description, pic, tech, lin
   );
 };
 
-const Project = ({ index, shouldAlternate, ...props }) => (
-  <Fade>
-    <Flex direction={{ base: "column", md: "row" }} justify="center" align="center" height="70vh">
-      <VStack w={{ base: "100%", md: "50%" }} align="center" justify="center">
-        <ProjectContent alternate={shouldAlternate ? index % 2 === 0 : false} {...props} />
-      </VStack>
-      <VStack w={{ base: "100%", md: "50%" }} align="center" justify="center">
-        <ProjectContent alternate={shouldAlternate ? index % 2 === 1 : true} {...props} />
-      </VStack>
-    </Flex>
-  </Fade>
-);
+const Project = ({ index, shouldAlternate, ...props }) => {
+  const t = useTranslations("Projects");
+  return (
+    <Fade>
+      <Flex direction={{ base: "column", md: "row" }} justify="center" align="center" height="70vh">
+        <VStack w={{ base: "100%", md: "50%" }} align="center" justify="center">
+          <ProjectContent
+            alternate={shouldAlternate ? index % 2 === 0 : false}
+            {...props}
+            description={t(props.description)}
+            subtitle={t(props.subtitle)}
+          />
+        </VStack>
+        <VStack w={{ base: "100%", md: "50%" }} align="center" justify="center">
+          <ProjectContent
+            alternate={shouldAlternate ? index % 2 === 1 : true}
+            {...props}
+            description={t(props.description)}
+            subtitle={t(props.subtitle)}
+          />
+        </VStack>
+      </Flex>
+    </Fade>
+  );
+};
 
 export default function ProjectsOverview() {
   const shouldAlternate = useBreakpointValue({ base: false, md: true });

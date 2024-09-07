@@ -14,6 +14,7 @@ const icons = {
   email: MdEmail,
   document: IoMdDocument,
   youtube: FaYoutube,
+  blog: FaDev,
   link: BiLink
 };
 

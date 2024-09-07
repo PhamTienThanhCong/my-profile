@@ -28,7 +28,7 @@ const Bio = ({ secondary }) => {
           <Link href="https://www.maxflowtech.com" isExternal>
             MaxFlow Tech
           </Link>{" "}
-          {t("introPart2")} <strong style={{ color: secondary }}>Lập trình viên web</strong>. {t("introPart3")}{" "}
+          {t("introPart2")} <strong style={{ color: secondary }}>{t("Job Title")}</strong>. {t("introPart3")}{" "}
           <Link href="https://www.ptd.com" isExternal>
             PTD
           </Link>

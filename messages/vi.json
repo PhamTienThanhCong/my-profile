@@ -24,6 +24,32 @@
     "introPart3": "Trước đây, tôi đã từng làm việc tại",
     "detailsPart1": "Tôi đam mê việc tạo ra các ứng dụng web và di động có khả năng mở rộng, thiết kế tinh tế và mang lại tác động thực tế. Tôi luôn học hỏi những công nghệ mới, thông qua các",
     "detailsPart2": "hoặc tự nghiên cứu, và gần đây tôi đã bắt đầu viết blog để chia sẻ kiến thức và kinh nghiệm của mình."
+  },
+  "Experience": {
+    "Experience": "Kinh nghiệm",
+    "March 2022 - Present": "Tháng 3 2022 - Hiện tại",
+    "July 2023 - Present": "Tháng 7 2023 - Hiện tại",
+    "March 2023 - June 2023": "Tháng 3 2023 - Tháng 6 2023",
+    "October 2022 - January 2023": "Tháng 10 2022 - Tháng 1 2023",
+
+    "web_developer": "Lập trình viên Web",
+    "intern_web_developer": "Thực tập sinh lập trình web",
+    "graduate_student_ai": "Học viên cao học AI",
+
+    "freelance_description_1": "Phát triển và duy trì ứng dụng web tùy chỉnh.",
+    "freelance_description_3": "Giao tiếp trực tiếp với khách hàng để hiểu rõ yêu cầu và đưa ra giải pháp phù hợp.",
+    "freelance_description_2": "Hợp tác với nhóm từ xa của các lập trình viên và nhà thiết kế.",
+
+    "maxflow_description_1": "Phát triển và duy trì ứng dụng web tùy chỉnh.",
+    "maxflow_description_2": "Xây dựng các ứng dụng web đa chức năng.",
+    "maxflow_description_3": "Làm việc cùng đồng nghiệp để tìm ra giải pháp tốt nhất cho khách hàng.",
+
+    "pdt_description_1": "Nắm vững các kiến thức cơ bản về phát triển web.",
+    "pdt_description_2": "Hỗ trợ thiết kế và phát triển các ứng dụng web cho khách hàng.",
+    "pdt_description_3": "Làm việc trong môi trường hợp tác.",
+
+    "ics_description_1": "Tìm hiểu các nguyên lý cơ bản của AI.",
+    "ics_description_2": "Phát triển các mô hình AI đơn giản."
   }
   
 }

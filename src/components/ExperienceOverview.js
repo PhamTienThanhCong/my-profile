@@ -16,6 +16,7 @@ import React, { useState } from "react";
 
 import jobs from "../data/jobs";
 import { colors } from "../theme";
+import { useTranslations } from "next-intl";
 
 const ExperienceSelect = ({ expIndex, setIndex }) => (
   <Select value={expIndex} onChange={(e) => setIndex(e.target.value)}>
@@ -40,11 +41,12 @@ const ExperienceButtons = ({ expIndex, setIndex }) => (
 const ExperienceDetails = ({ index }) => {
   const job = jobs[index];
   const secondary = useColorModeValue(colors.secondary.light, colors.secondary.dark);
+  const t = useTranslations("Experience");
   return (
     <VStack spacing={4} align="start">
       <Box>
         <Heading as="h1" size="md">
-          {job.position} @{" "}
+          {t(job.position)} @{" "}
           <Link href={job.url} isExternal color={secondary}>
             {job.workplace}
           </Link>
@@ -53,14 +55,14 @@ const ExperienceDetails = ({ index }) => {
       <Box>
         {job.duration.map((duration) => (
           <Text key={duration} mt={2}>
-            {duration}
+            {t(duration)}
           </Text>
         ))}
       </Box>
       <Box>
         <UnorderedList mt={2}>
           {job.description.map((desc) => (
-            <ListItem key={desc}>{desc}</ListItem>
+            <ListItem key={desc}>{t(desc)}</ListItem>
           ))}
         </UnorderedList>
       </Box>

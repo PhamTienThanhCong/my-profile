@@ -1,0 +1,71 @@
+{
+  "Header": {
+    "About": "Über",
+    "About Me": "Über mich",
+    "Experience": "Erfahrung",
+    "Projects": "Projekte",
+    "Contact": "Kontakt",
+    "Blog": "Blog",
+    "Toggle dark mode": "In den Dunkelmodus wechseln",
+    "Toggle light mode": "In den Hellmodus wechseln"
+  },
+  "Landing": {
+    "Hello": "Hallo, ich bin",
+    "Name": "Cong Pham",
+    "Title": "Webentwickler",
+    "a": "ein",
+    "Learn More": "Mehr erfahren"
+  },
+  "About": {
+    "About Me": "Über mich",
+    "Job Title": "Webentwickler",
+    "introPart1": "Hallo, ich bin Pham Tien Thanh Cong! Ich habe Anwendungssoftware an der Phenikaa-Universität studiert und arbeite derzeit bei",
+    "introPart2": "als",
+    "introPart3": "Früher arbeitete ich bei",
+    "detailsPart1": "Ich bin leidenschaftlich daran interessiert, skalierbare, elegante Web- und Mobile-Anwendungen zu erstellen, die echte Auswirkungen haben. Ich lerne ständig neue Technologien durch",
+    "detailsPart2": "oder im Selbststudium und habe kürzlich begonnen, einen Blog zu schreiben, um mein Wissen und meine Erfahrungen zu teilen."
+  },
+  "Experience": {
+    "Experience": "Erfahrung",
+    "March 2022 - Present": "März 2022 - Heute",
+    "July 2023 - Present": "Juli 2023 - Heute",
+    "March 2023 - June 2023": "März 2023 - Juni 2023",
+    "October 2022 - January 2023": "Oktober 2022 - Januar 2023",
+
+    "web_developer": "Webentwickler",
+    "intern_web_developer": "Praktikant Webentwicklung",
+    "graduate_student_ai": "Masterstudent KI",
+
+    "freelance_description_1": "Entwicklung und Wartung von kundenspezifischen Webanwendungen.",
+    "freelance_description_2": "Zusammenarbeit mit einem Remote-Team von Entwicklern und Designern.",
+    "freelance_description_3": "Direkte Kommunikation mit Kunden, um Anforderungen zu verstehen und Lösungen anzubieten.",
+
+    "maxflow_description_1": "Entwicklung und Wartung von kundenspezifischen Webanwendungen.",
+    "maxflow_description_2": "Erstellung von multifunktionalen Webanwendungen.",
+    "maxflow_description_3": "Zusammenarbeit mit Kollegen, um die besten Lösungen für Kunden zu finden.",
+
+    "pdt_description_1": "Beherrschung der Grundlagen der Webentwicklung.",
+    "pdt_description_2": "Unterstützung bei der Gestaltung und Entwicklung von Webanwendungen für Kunden.",
+    "pdt_description_3": "Arbeit in einer kooperativen Umgebung.",
+
+    "ics_description_1": "Erlernen der Grundlagen der KI.",
+    "ics_description_2": "Entwicklung einfacher KI-Modelle."
+  },
+  "Projects": {
+    "Featured Projects": "Ausgewählte Projekte",
+    "Timedle_description": "Timedle ist ein kreatives Geschichtsspiel, das Lernen in ein tägliches Abenteuer verwandelt. Jeden Tag wird eine neue Geschichtsfrage gestellt, um das Wissen der Schüler herauszufordern und ihnen zu helfen, auf unterhaltsame und interaktive Weise Punkte zu sammeln.",
+    "Timedle_subtitle": "#1 bei Google für 'Timedle'",
+    "GeographyGame_description": "A Game of Geography nimmt die Schüler mit auf eine Reise, um die Welt durch tägliche Geografiefragen zu erkunden. Jede neue Frage hilft den Spielern, mehr über Geografie zu erfahren, während sie um Punkte wetteifern.",
+    "GeographyGame_subtitle": "Top-Sammlung der besten Geografiespiele",
+    "RandomCity_description": "Der Random City Generator erstellt Städte, indem er zufällige Namen, Bevölkerungen und Länder generiert. Es ist das perfekte Werkzeug für Weltbauer und Geografie-Enthusiasten.",
+    "RandomCity_subtitle": "Top-Ergebnisse bei Google für 'random city generator'",
+    "PersonalWebsite_description": "Dies ist meine persönliche Website, auf der ich meine Projekte, Fähigkeiten und berufliche Entwicklung präsentiere. Diese Website wurde mit Next.js und Chakra UI erstellt und unterstützt mehrere Sprachen, was meine Leidenschaft für globale Zusammenarbeit zeigt.",
+    "PersonalWebsite_subtitle": "Individuelles Design basierend auf 'Jarrod Servilla'"
+  },
+  "Contact Me": {
+    "Contact Me": "Kontakt",
+    "Title 1": "Ob es eine Jobgelegenheit, ein Kaffeetreffen,",
+    "Title 2": "oder einfach nur ein freundliches Gespräch ist, kontaktieren Sie mich gerne!",
+    "Send Email": "E-Mail senden"
+  }
+}

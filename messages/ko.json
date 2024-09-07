@@ -1,0 +1,71 @@
+{
+  "Header": {
+    "About": "소개",
+    "About Me": "내 소개",
+    "Experience": "경험",
+    "Projects": "프로젝트",
+    "Contact": "연락처",
+    "Blog": "블로그",
+    "Toggle dark mode": "다크 모드로 전환",
+    "Toggle light mode": "라이트 모드로 전환"
+  },
+  "Landing": {
+    "Hello": "안녕하세요, 저는",
+    "Name": "Cong Pam",
+    "Title": "웹 개발자",
+    "a": "한",
+    "Learn More": "더 알아보기"
+  },
+  "About": {
+    "About Me": "내 소개",
+    "Job Title": "웹 개발자",
+    "introPart1": "안녕하세요, 저는 팜 티엔 탕 콩입니다! 저는 페니카 대학교에서 응용 소프트웨어를 전공했고, 현재",
+    "introPart2": "에서 일하고 있습니다",
+    "introPart3": "이전에 저는",
+    "detailsPart1": "확장 가능하고 우아한 웹 및 모바일 애플리케이션을 만들고, 실제로 영향을 미치는 것에 열정을 가지고 있습니다. 저는 항상 새로운 기술을 배우고,",
+    "detailsPart2": "또는 독학으로, 최근에는 제 지식과 경험을 공유하기 위해 블로그를 시작했습니다."
+  },
+  "Experience": {
+    "Experience": "경험",
+    "March 2022 - Present": "2022년 3월 - 현재",
+    "July 2023 - Present": "2023년 7월 - 현재",
+    "March 2023 - June 2023": "2023년 3월 - 2023년 6월",
+    "October 2022 - January 2023": "2022년 10월 - 2023년 1월",
+
+    "web_developer": "웹 개발자",
+    "intern_web_developer": "인턴 웹 개발자",
+    "graduate_student_ai": "AI 대학원생",
+
+    "freelance_description_1": "맞춤형 웹 애플리케이션 개발 및 유지 관리.",
+    "freelance_description_2": "원격 개발자 및 디자이너 팀과 협력.",
+    "freelance_description_3": "고객과 직접 소통하여 요구 사항을 이해하고 해결책을 제공합니다.",
+
+    "maxflow_description_1": "맞춤형 웹 애플리케이션 개발 및 유지 관리.",
+    "maxflow_description_2": "다기능 웹 애플리케이션 구축.",
+    "maxflow_description_3": "동료들과 협력하여 고객을 위한 최상의 솔루션을 찾습니다.",
+
+    "pdt_description_1": "웹 개발의 기본 지식 습득.",
+    "pdt_description_2": "고객을 위한 웹 애플리케이션 설계 및 개발 지원.",
+    "pdt_description_3": "협력 환경에서 근무.",
+
+    "ics_description_1": "AI의 기본 원리 학습.",
+    "ics_description_2": "간단한 AI 모델 개발."
+  },
+  "Projects": {
+    "Featured Projects": "추천 프로젝트",
+    "Timedle_description": "Timedle은 매일의 학습을 모험으로 만드는 창의적인 역사 게임입니다. 매일 새로운 역사 질문이 게시되어 학생들의 지식을 테스트하고 재미있고 상호작용적인 방식으로 점수를 얻을 수 있습니다.",
+    "Timedle_subtitle": "'Timedle'로 구글에서 1위",
+    "GeographyGame_description": "A Game of Geography는 학생들을 매일 지리 질문을 통해 세계를 탐험하는 여정으로 이끕니다. 각 새로운 질문은 플레이어가 지리학에 대해 더 많이 배우고 점수를 경쟁하는 데 도움을 줍니다.",
+    "GeographyGame_subtitle": "최고의 지리 게임 컬렉션",
+    "RandomCity_description": "랜덤 시티 생성기는 무작위로 이름, 인구 및 국가를 생성하여 도시를 만듭니다. 이는 세계 건설자와 지리 애호가에게 완벽한 도구입니다.",
+    "RandomCity_subtitle": "'random city generator'로 구글에서 최고의 결과",
+    "PersonalWebsite_description": "이것은 저의 개인 웹사이트로, 저의 프로젝트, 기술, 그리고 직업 성장을 보여줍니다. Next.js와 Chakra UI로 구축된 이 사이트는 여러 언어를 지원하여 글로벌 협업에 대한 저의 열정을 보여줍니다.",
+    "PersonalWebsite_subtitle": "'Jarrod Servilla'에 기반한 맞춤형 디자인"
+  },
+  "Contact Me": {
+    "Contact Me": "연락하기",
+    "Title 1": "취업 기회, 커피 한 잔,",
+    "Title 2": "또는 단순히 친절한 대화라도, 언제든지 연락 주세요!",
+    "Send Email": "이메일 보내기"
+  }
+}

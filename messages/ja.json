@@ -1,0 +1,71 @@
+{
+  "Header": {
+    "About": "紹介",
+    "About Me": "私について",
+    "Experience": "経験",
+    "Projects": "プロジェクト",
+    "Contact": "連絡先",
+    "Blog": "ブログ",
+    "Toggle dark mode": "ダークモードに切り替え",
+    "Toggle light mode": "ライトモードに切り替え"
+  },
+  "Landing": {
+    "Hello": "こんにちは、私は",
+    "Name": "Cong Famu",
+    "Title": "ウェブ開発者",
+    "a": "の",
+    "Learn More": "もっと知る"
+  },
+  "About": {
+    "About Me": "私について",
+    "Job Title": "ウェブ開発者",
+    "introPart1": "こんにちは、私はファム・ティエン・タン・コンです！フェニカ大学で応用ソフトウェアを学び、現在",
+    "introPart2": "で働いています",
+    "introPart3": "以前、私は",
+    "detailsPart1": "スケーラブルでエレガントなウェブやモバイルアプリケーションを作成し、現実の影響を与えることに情熱を持っています。私は常に新しい技術を学び、",
+    "detailsPart2": "または独学で、最近では知識と経験を共有するためにブログを書き始めました。"
+  },
+  "Experience": {
+    "Experience": "経験",
+    "March 2022 - Present": "2022年3月 - 現在",
+    "July 2023 - Present": "2023年7月 - 現在",
+    "March 2023 - June 2023": "2023年3月 - 2023年6月",
+    "October 2022 - January 2023": "2022年10月 - 2023年1月",
+
+    "web_developer": "ウェブ開発者",
+    "intern_web_developer": "インターンウェブ開発者",
+    "graduate_student_ai": "AI大学院生",
+
+    "freelance_description_1": "カスタムウェブアプリケーションを開発し、維持します。",
+    "freelance_description_2": "リモートチームの開発者やデザイナーと協力します。",
+    "freelance_description_3": "クライアントと直接コミュニケーションを取り、要件を理解し、ソリューションを提供します。",
+
+    "maxflow_description_1": "カスタムウェブアプリケーションを開発し、維持します。",
+    "maxflow_description_2": "多機能のウェブアプリケーションを構築します。",
+    "maxflow_description_3": "クライアントのために同僚と協力して最適なソリューションを見つけます。",
+
+    "pdt_description_1": "ウェブ開発の基本を習得します。",
+    "pdt_description_2": "クライアントのためのウェブアプリケーションの設計と開発をサポートします。",
+    "pdt_description_3": "協力的な環境で働きます。",
+
+    "ics_description_1": "AIの基本原理を学びます。",
+    "ics_description_2": "シンプルなAIモデルを開発します。"
+  },
+  "Projects": {
+    "Featured Projects": "注目のプロジェクト",
+    "Timedle_description": "Timedleは、学習を毎日の冒険に変えるクリエイティブな歴史ゲームです。毎日、新しい歴史の質問が投稿され、学生の知識に挑戦し、楽しくインタラクティブにポイントを獲得できます。",
+    "Timedle_subtitle": "'Timedle'でGoogleの1位にランクイン",
+    "GeographyGame_description": "A Game of Geographyは、学生を地理の質問を通じて世界を探索する旅に導きます。新しい質問は、プレイヤーが地理について学びながら、ポイントを獲得する助けになります。",
+    "GeographyGame_subtitle": "トップの地理ゲームコレクション",
+    "RandomCity_description": "ランダム都市ジェネレーターは、ランダムな名前、人口、国を生成して都市を作成します。これは、ワールドビルダーや地理愛好家に最適なツールです。",
+    "RandomCity_subtitle": "'random city generator'でGoogleのトップ結果",
+    "PersonalWebsite_description": "これは私の個人ウェブサイトで、私のプロジェクト、スキル、そしてプロフェッショナルな成長を紹介しています。Next.jsとChakra UIで構築され、多言語に対応し、グローバルな協力への情熱を示しています。",
+    "PersonalWebsite_subtitle": "'Jarrod Servilla'に基づいたカスタムデザイン"
+  },
+  "Contact Me": {
+    "Contact Me": "連絡先",
+    "Title 1": "求人のチャンス、コーヒーチャット、",
+    "Title 2": "または単なるフレンドリーな会話でも、お気軽にご連絡ください！",
+    "Send Email": "メールを送信"
+  }
+}

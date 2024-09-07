@@ -1,0 +1,71 @@
+{
+  "Header": {
+    "About": "Acerca de",
+    "About Me": "Sobre mí",
+    "Experience": "Experiencia",
+    "Projects": "Proyectos",
+    "Contact": "Contacto",
+    "Blog": "Blog",
+    "Toggle dark mode": "Cambiar a modo oscuro",
+    "Toggle light mode": "Cambiar a modo claro"
+  },
+  "Landing": {
+    "Hello": "Hola, soy",
+    "Name": "Cong Pham",
+    "Title": "Desarrollador Web",
+    "a": "un",
+    "Learn More": "Saber más"
+  },
+  "About": {
+    "About Me": "Sobre mí",
+    "Job Title": "Desarrollador web",
+    "introPart1": "¡Hola! Soy Pham Tien Thanh Cong. Estudié Software de Aplicaciones en la Universidad Phenikaa y actualmente trabajo en",
+    "introPart2": "como",
+    "introPart3": "Anteriormente, trabajé en",
+    "detailsPart1": "Me apasiona crear aplicaciones web y móviles escalables y elegantes con un impacto en el mundo real. Siempre estoy aprendiendo nuevas tecnologías a través de",
+    "detailsPart2": "o por cuenta propia, y recientemente comencé a escribir un blog para compartir mi conocimiento y experiencia."
+  },
+  "Experience": {
+    "Experience": "Experiencia",
+    "March 2022 - Present": "Marzo 2022 - Presente",
+    "July 2023 - Present": "Julio 2023 - Presente",
+    "March 2023 - June 2023": "Marzo 2023 - Junio 2023",
+    "October 2022 - January 2023": "Octubre 2022 - Enero 2023",
+
+    "web_developer": "Desarrollador Web",
+    "intern_web_developer": "Becario de desarrollo web",
+    "graduate_student_ai": "Estudiante de posgrado en IA",
+
+    "freelance_description_1": "Desarrollar y mantener aplicaciones web personalizadas.",
+    "freelance_description_2": "Colaborar con un equipo remoto de desarrolladores y diseñadores.",
+    "freelance_description_3": "Comunicación directa con los clientes para entender los requisitos y ofrecer soluciones.",
+
+    "maxflow_description_1": "Desarrollar y mantener aplicaciones web personalizadas.",
+    "maxflow_description_2": "Construir aplicaciones web multifuncionales.",
+    "maxflow_description_3": "Colaborar con colegas para encontrar las mejores soluciones para los clientes.",
+
+    "pdt_description_1": "Dominar los conceptos básicos del desarrollo web.",
+    "pdt_description_2": "Ayudar en el diseño y desarrollo de aplicaciones web para los clientes.",
+    "pdt_description_3": "Trabajar en un entorno colaborativo.",
+
+    "ics_description_1": "Estudiar los principios básicos de la inteligencia artificial.",
+    "ics_description_2": "Desarrollar modelos simples de inteligencia artificial."
+  },
+  "Projects": {
+    "Featured Projects": "Proyectos destacados",
+    "Timedle_description": "Timedle es un juego creativo de historia que convierte el aprendizaje en una aventura diaria. Cada día se publica una nueva pregunta de historia para desafiar el conocimiento de los estudiantes y ayudarles a ganar puntos de una manera divertida e interactiva.",
+    "Timedle_subtitle": "#1 en Google para 'Timedle'",
+    "GeographyGame_description": "A Game of Geography lleva a los estudiantes a un viaje para explorar el mundo a través de preguntas diarias de geografía. Cada nueva pregunta ayuda a los jugadores a aprender más sobre geografía mientras compiten por puntos.",
+    "GeographyGame_subtitle": "Colección de los mejores juegos de geografía",
+    "RandomCity_description": "Random City Generator crea ciudades generando nombres, poblaciones y países aleatorios. Es la herramienta perfecta para constructores de mundos y entusiastas de la geografía.",
+    "RandomCity_subtitle": "Los mejores resultados en Google para 'random city generator'",
+    "PersonalWebsite_description": "Este es mi sitio web personal, que muestra mis proyectos, habilidades y desarrollo profesional. Construido con Next.js y Chakra UI, este sitio admite múltiples idiomas, lo que demuestra mi pasión por la colaboración global.",
+    "PersonalWebsite_subtitle": "Diseño personalizado basado en 'Jarrod Servilla'"
+  },
+  "Contact Me": {
+    "Contact Me": "Contáctame",
+    "Title 1": "Ya sea una oportunidad de trabajo, una charla de café,",
+    "Title 2": "o simplemente una conversación amistosa, ¡no dudes en contactarme!",
+    "Send Email": "Enviar correo"
+  }
+}

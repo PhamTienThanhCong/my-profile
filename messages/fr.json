@@ -1,0 +1,71 @@
+{
+  "Header": {
+    "About": "À propos",
+    "About Me": "À propos de moi",
+    "Experience": "Expérience",
+    "Projects": "Projets",
+    "Contact": "Contact",
+    "Blog": "Blog",
+    "Toggle dark mode": "Passer en mode sombre",
+    "Toggle light mode": "Passer en mode clair"
+  },
+  "Landing": {
+    "Hello": "Bonjour, je suis",
+    "Name": "Cong Pham",
+    "Title": "Développeur Web",
+    "a": "un",
+    "Learn More": "En savoir plus"
+  },
+  "About": {
+    "About Me": "À propos de moi",
+    "Job Title": "Développeur web",
+    "introPart1": "Bonjour, je suis Pham Tien Thanh Cong ! J'ai étudié les logiciels d'application à l'Université Phenikaa et je travaille actuellement chez",
+    "introPart2": "en tant que",
+    "introPart3": "Auparavant, j'ai travaillé chez",
+    "detailsPart1": "Je suis passionné par la création d'applications web et mobiles évolutives et élégantes qui ont un impact réel. J'apprends constamment de nouvelles technologies par",
+    "detailsPart2": "ou en autodidacte, et récemment, j'ai commencé à écrire un blog pour partager mes connaissances et mon expérience."
+  },
+  "Experience": {
+    "Experience": "Expérience",
+    "March 2022 - Present": "Mars 2022 - Présent",
+    "July 2023 - Present": "Juillet 2023 - Présent",
+    "March 2023 - June 2023": "Mars 2023 - Juin 2023",
+    "October 2022 - January 2023": "Octobre 2022 - Janvier 2023",
+
+    "web_developer": "Développeur Web",
+    "intern_web_developer": "Stagiaire développeur web",
+    "graduate_student_ai": "Étudiant diplômé en IA",
+
+    "freelance_description_1": "Développer et maintenir des applications web personnalisées.",
+    "freelance_description_2": "Collaborer avec une équipe distante de développeurs et de designers.",
+    "freelance_description_3": "Communication directe avec les clients pour comprendre leurs besoins et proposer des solutions.",
+
+    "maxflow_description_1": "Développer et maintenir des applications web personnalisées.",
+    "maxflow_description_2": "Construire des applications web multifonctionnelles.",
+    "maxflow_description_3": "Collaborer avec des collègues pour trouver les meilleures solutions pour les clients.",
+
+    "pdt_description_1": "Maîtriser les bases du développement web.",
+    "pdt_description_2": "Aider à la conception et au développement d'applications web pour les clients.",
+    "pdt_description_3": "Travailler dans un environnement collaboratif.",
+
+    "ics_description_1": "Étudier les principes de base de l'intelligence artificielle.",
+    "ics_description_2": "Développer des modèles d'IA simples."
+  },
+  "Projects": {
+    "Featured Projects": "Projets en vedette",
+    "Timedle_description": "Timedle est un jeu d'histoire créatif qui transforme l'apprentissage en une aventure quotidienne. Chaque jour, une nouvelle question d'histoire est publiée pour défier les connaissances des étudiants et les aider à accumuler des points de manière ludique et interactive.",
+    "Timedle_subtitle": "#1 classé sur Google pour 'Timedle'",
+    "GeographyGame_description": "A Game of Geography emmène les étudiants dans un voyage pour explorer le monde à travers des questions géographiques quotidiennes. Chaque nouvelle question aide les joueurs à en apprendre davantage sur la géographie tout en rivalisant pour accumuler des points.",
+    "GeographyGame_subtitle": "Collection des meilleurs jeux de géographie",
+    "RandomCity_description": "Random City Generator crée des villes en générant des noms, des populations et des pays aléatoires. C'est l'outil parfait pour les créateurs de mondes et les passionnés de géographie.",
+    "RandomCity_subtitle": "Résultats de recherche les plus élevés sur Google pour 'random city generator'",
+    "PersonalWebsite_description": "Ceci est mon site personnel, qui présente mes projets, compétences et développement professionnel. Construit avec Next.js et Chakra UI, ce site prend en charge plusieurs langues, témoignant de ma passion pour la collaboration mondiale.",
+    "PersonalWebsite_subtitle": "Conception personnalisée basée sur 'Jarrod Servilla'"
+  },
+  "Contact Me": {
+    "Contact Me": "Contactez-moi",
+    "Title 1": "Que ce soit une opportunité d'emploi, une discussion autour d'un café,",
+    "Title 2": "ou simplement une conversation amicale, n'hésitez pas à me contacter !",
+    "Send Email": "Envoyer un email"
+  }
+}

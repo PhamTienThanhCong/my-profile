@@ -1,6 +1,7 @@
 {
   "Header": {
     "About": "About",
+    "About Me": "About Me",
     "Experience": "Experience",
     "Projects": "Projects",
     "Contact": "Contact",
@@ -9,17 +10,62 @@
     "Toggle light mode": "Toggle light mode"
   },
   "Landing": {
-    "Hello": "Hello, I'm ",
+    "Hello": "Hello, I am",
     "Name": "Cong Pham",
     "Title": "Web Developer",
     "a": "a",
     "Learn More": "Learn More"
   },
   "About": {
-    "introPart1": "Hello, I'm Pham Tien Thanh Cong! I studied application software at Phenikaa University and am currently working at",
+    "About Me": "About Me",
+    "Job Title": "Web Developer",
+    "introPart1": "Hello, I am Pham Tien Thanh Cong! I studied Application Software at Phenikaa University and currently work at",
     "introPart2": "as a",
     "introPart3": "Previously, I worked at",
-    "detailsPart1": "I am passionate about creating scalable and elegant web and mobile applications that have a real-world impact. I always strive to learn new technologies, either through",
-    "detailsPart2": "or self-study, and recently I started writing a blog to share my knowledge and experience."
+    "detailsPart1": "I am passionate about creating scalable, elegant web and mobile applications that have a real-world impact. I am constantly learning new technologies through",
+    "detailsPart2": "or self-study, and recently I started blogging to share my knowledge and experience."
+  },
+  "Experience": {
+    "Experience": "Experience",
+    "March 2022 - Present": "March 2022 - Present",
+    "July 2023 - Present": "July 2023 - Present",
+    "March 2023 - June 2023": "March 2023 - June 2023",
+    "October 2022 - January 2023": "October 2022 - January 2023",
+
+    "web_developer": "Web Developer",
+    "intern_web_developer": "Intern Web Developer",
+    "graduate_student_ai": "Graduate Student AI",
+
+    "freelance_description_1": "Develop and maintain custom web applications.",
+    "freelance_description_3": "Direct communication with clients to understand requirements and offer solutions.",
+    "freelance_description_2": "Collaborate with a remote team of developers and designers.",
+
+    "maxflow_description_1": "Develop and maintain custom web applications.",
+    "maxflow_description_2": "Build multifunctional web applications.",
+    "maxflow_description_3": "Collaborate with colleagues to find the best solutions for clients.",
+
+    "pdt_description_1": "Master the basics of web development.",
+    "pdt_description_2": "Assist in designing and developing web applications for clients.",
+    "pdt_description_3": "Work in a collaborative environment.",
+
+    "ics_description_1": "Study basic AI principles.",
+    "ics_description_2": "Develop simple AI models."
+  },
+  "Projects": {
+    "Featured Projects": "Featured Projects",
+    "Timedle_description": "Timedle is a creative history game that turns learning into a daily adventure. Each day, a new historical question is posted to challenge students' knowledge and help them earn points in a fun and interactive way.",
+    "Timedle_subtitle": "#1 ranked on Google for 'Timedle'",
+    "GeographyGame_description": "A Game of Geography takes students on a journey to explore the world through daily geography questions. Each new question helps players learn more about geography while competing to score points.",
+    "GeographyGame_subtitle": "Top-rated geography games collection",
+    "RandomCity_description": "Random City Generator creates cities by generating random names, populations, and countries. It is the perfect tool for world builders and geography enthusiasts.",
+    "RandomCity_subtitle": "Top results on Google for 'random city generator'",
+    "PersonalWebsite_description": "This is my personal website, showcasing my projects, skills, and professional development. Built with Next.js and Chakra UI, this site supports multiple languages, demonstrating my passion for global collaboration.",
+    "PersonalWebsite_subtitle": "Custom design based on 'Jarrod Servilla'"
+  },
+  "Contact Me": {
+    "Contact Me": "Contact Me",
+    "Title 1": "Whether it's a job opportunity, a coffee chat,",
+    "Title 2": "or just a friendly conversation, feel free to reach out!",
+    "Send Email": "Send Email"
   }
 }

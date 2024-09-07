@@ -23,13 +23,15 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import { FaMoon, FaSun } from "react-icons/fa";
+import { IoLanguage } from "react-icons/io5";
 import { animateScroll as scroll, Link as ScrollLink } from "react-scroll";
 import Sticky from "react-stickynode";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
 
 import { colors } from "../theme";
-import { useRouter } from "@/i18n/routing";
+import languages from "@/data/languages";
+import Image from "next/image";
 
 const navBtns = [
   {
@@ -113,24 +115,23 @@ const ColorModeButton = ({ mr }) => {
 };
 
 const LanguageSwitcher = () => {
-  const { locale } = useRouter();
-  const t = useTranslations("Header");
-
   return (
     <Menu>
       <MenuButton as={Button} variant="outline" size="md" mr={4}>
-        {locale === "en" ? "English" : locale === "vi" ? "Tiếng Việt" : "中文"}
+        <IoLanguage />
       </MenuButton>
       <MenuList>
-        <Link href="/" locale="en">
+        {/* <Link href="/" locale="en">
           <MenuItem>English</MenuItem>
-        </Link>
-        <Link href="/" locale="vi">
-          <MenuItem>Tiếng Việt</MenuItem>
-        </Link>
-        <Link href="/" locale="zh">
-          <MenuItem>中文</MenuItem>
-        </Link>
+        </Link> */}
+        {languages.map((lang) => (
+          <Link key={lang.code} href="/" locale={lang.code}>
+            <MenuItem>
+              <Image src={lang.image} alt={lang.name} width="24" height="24" style={{ marginRight: "24px" }} />
+              {lang.name}
+            </MenuItem>
+          </Link>
+        ))}
       </MenuList>
     </Menu>
   );

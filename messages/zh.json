@@ -1,0 +1,25 @@
+{
+  "Header": {
+    "About": "关于",
+    "Experience": "经验",
+    "Projects": "项目",
+    "Contact": "联系",
+    "Blog": "博客",
+    "Toggle dark mode": "切换到暗模式",
+    "Toggle light mode": "切换到亮模式"
+  },
+  "Landing": {
+    "Hello": "你好，我是 ",
+    "Name": "Công Phạm",
+    "Title": "网页开发员",
+    "a": "一名",
+    "Learn More": "了解更多"
+  },
+  "About": {
+    "introPart1": "你好，我是 Phạm Tiến Thành Công！我在 Phenikaa 大学学习了应用软件，目前在",
+    "introPart2": "担任",
+    "introPart3": "之前，我曾在",
+    "detailsPart1": "我热衷于创建具有实际影响力、可扩展且优雅的网页和移动应用。我总是努力通过",
+    "detailsPart2": "或自学来学习新技术，最近我开始写博客分享我的知识和经验。"
+  }
+}

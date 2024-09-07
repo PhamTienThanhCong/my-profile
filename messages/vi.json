@@ -1,11 +1,28 @@
 {
   "Header": {
     "About": "Giới thiệu",
+    "About Me": "Về tôi",
     "Experience": "Kinh nghiệm",
     "Projects": "Dự án",
     "Contact": "Liên hệ",
     "Blog": "Blog",
     "Toggle dark mode": "Chuyển sang chế độ tối",
     "Toggle light mode": "Chuyển sang chế độ sáng"
+  },
+  "Landing": {
+    "Hello": "Xin chào, tôi là ",
+    "Name": "Công Phạm",
+    "Title": "Lập trình viên Web",
+    "a": "một",
+    "Learn More": "Tìm hiểu thêm"
+  },
+  "About": {
+    "About Me": "Về tôi",
+    "introPart1": "Chào bạn, tôi là Phạm Tiến Thành Công! Tôi đã theo học chuyên ngành Phần mềm Ứng dụng tại Đại học Phenikaa và hiện tại đang làm việc tại",
+    "introPart2": "với vai trò",
+    "introPart3": "Trước đây, tôi đã từng làm việc tại",
+    "detailsPart1": "Tôi đam mê việc tạo ra các ứng dụng web và di động có khả năng mở rộng, thiết kế tinh tế và mang lại tác động thực tế. Tôi luôn học hỏi những công nghệ mới, thông qua các",
+    "detailsPart2": "hoặc tự nghiên cứu, và gần đây tôi đã bắt đầu viết blog để chia sẻ kiến thức và kinh nghiệm của mình."
   }
+  
 }

@@ -1,6 +1,25 @@
 {
-  "HomePage": {
-    "title": "Hello world!",
-    "about": "Go to the about page"
+  "Header": {
+    "About": "About",
+    "Experience": "Experience",
+    "Projects": "Projects",
+    "Contact": "Contact",
+    "Blog": "Blog",
+    "Toggle dark mode": "Toggle dark mode",
+    "Toggle light mode": "Toggle light mode"
+  },
+  "Landing": {
+    "Hello": "Hello, I'm ",
+    "Name": "Cong Pham",
+    "Title": "Web Developer",
+    "a": "a",
+    "Learn More": "Learn More"
+  },
+  "About": {
+    "introPart1": "Hello, I'm Pham Tien Thanh Cong! I studied application software at Phenikaa University and am currently working at",
+    "introPart2": "as a",
+    "introPart3": "Previously, I worked at",
+    "detailsPart1": "I am passionate about creating scalable and elegant web and mobile applications that have a real-world impact. I always strive to learn new technologies, either through",
+    "detailsPart2": "or self-study, and recently I started writing a blog to share my knowledge and experience."
   }
 }

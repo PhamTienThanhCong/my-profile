@@ -10,21 +10,26 @@ import {
   DrawerOverlay,
   Icon,
   IconButton,
-  Link,
   Spacer,
   Stack,
   Tooltip,
   useColorMode,
   useColorModeValue,
-  useDisclosure
+  useDisclosure,
+  Menu,
+  MenuButton,
+  MenuList,
+  MenuItem
 } from "@chakra-ui/react";
 import React from "react";
 import { FaMoon, FaSun } from "react-icons/fa";
 import { animateScroll as scroll, Link as ScrollLink } from "react-scroll";
 import Sticky from "react-stickynode";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/routing";
 
 import { colors } from "../theme";
-import { useTranslations } from "next-intl";
+import { useRouter } from "@/i18n/routing";
 
 const navBtns = [
   {
@@ -107,6 +112,30 @@ const ColorModeButton = ({ mr }) => {
   );
 };
 
+const LanguageSwitcher = () => {
+  const { locale } = useRouter();
+  const t = useTranslations("Header");
+
+  return (
+    <Menu>
+      <MenuButton as={Button} variant="outline" size="md" mr={4}>
+        {locale === "en" ? "English" : locale === "vi" ? "Tiếng Việt" : "中文"}
+      </MenuButton>
+      <MenuList>
+        <Link href="/" locale="en">
+          <MenuItem>English</MenuItem>
+        </Link>
+        <Link href="/" locale="vi">
+          <MenuItem>Tiếng Việt</MenuItem>
+        </Link>
+        <Link href="/" locale="zh">
+          <MenuItem>中文</MenuItem>
+        </Link>
+      </MenuList>
+    </Menu>
+  );
+};
+
 const MenuLinks = ({ onClose }) => (
   <Stack
     display={{ base: "none", sm: "none", md: "block" }}
@@ -117,6 +146,7 @@ const MenuLinks = ({ onClose }) => (
   >
     <NavButtons size="sm" onClose={onClose} />
     <ColorModeButton mr="12px" ml={2} />
+    <LanguageSwitcher />
   </Stack>
 );
 
@@ -128,6 +158,7 @@ const NavMenu = ({ isOpen, onClose }) => (
           <Stack alignItems="center" justifyContent="center" direction={["column"]} spacing="24px" mt="20vh">
             <NavButtons size="lg" onClose={onClose} />
             <ColorModeButton />
+            <LanguageSwitcher />
           </Stack>
         </DrawerBody>
       </DrawerContent>

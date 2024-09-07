@@ -19,20 +19,20 @@ const META_DATA = {
   ],
   GENERATOR: "NextJS",
   ROBOTS: "index, follow",
-  IMAGE: [`${APP_URL}/profile/hero-image.jpg`],
+  IMAGE: [`${APP_URL}/profile/background.jpg`],
   URL: "/",
   AUTHOR: "Cong Pham",
   OG_TITLE: "Cong Pham | Software Engineer & Creator of Scalable Solutions",
   OG_DESCRIPTION:
     "Discover the portfolio and projects of Cong Pham, an expert in developing high-impact, scalable applications with a passion for learning and innovation.",
   OG_TYPE: "website",
-  OG_IMAGE: [`${APP_URL}/profile/hero-image.jpg`],
+  OG_IMAGE: [`${APP_URL}/profile/background.jpg`],
   OG_URL: `${APP_URL}`,
   TWITTER_CARD: "summary_large_image",
   TWITTER_TITLE: "Cong Pham | Software Engineer & AWS Certified Developer",
   TWITTER_DESCRIPTION:
     "Explore Cong Pham's journey in building elegant and scalable web and mobile applications, alongside his experience at dbt Labs, SailPoint, Citigroup, and more.",
-  TWITTER_IMAGE: [`${APP_URL}/profile/twitter-image.jpg`],
+  TWITTER_IMAGE: [`${APP_URL}/profile/background.jpg`],
   TWITTER_CREATOR: "@congpham"
 };
 

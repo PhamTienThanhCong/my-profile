@@ -67,5 +67,25 @@
     "Title 1": "Que ce soit une opportunité d'emploi, une discussion autour d'un café,",
     "Title 2": "ou simplement une conversation amicale, n'hésitez pas à me contacter !",
     "Send Email": "Envoyer un email"
+  },
+  "Metadata": {
+    "title": "Cong Pham | Solutions logicielles évolutives et efficaces",
+    "description": "Cong Pham est un développeur web qui crée des applications web et mobiles évolutives et élégantes ayant un impact réel. Il est passionné par l'apprentissage des nouvelles technologies et le partage de ses connaissances à travers son blog.",
+    "applicationName": "Portefeuille de Cong Pham",
+    "keywords_1": "Portefeuille de Cong Pham",
+    "keywords_2": "Cong Pham ingénieur logiciel",
+    "keywords_3": "Développement web",
+    "keywords_4": "Applications mobiles",
+    "keywords_5": "Développeur certifié AWS",
+    "keywords_6": "Ingénieur chez dbt Labs",
+    "keywords_7": "Développeur chez SailPoint",
+    "keywords_8": "Développeur chez Citigroup",
+    "keywords_9": "Développeur chez Citylitics",
+    "keywords_10": "Solutions logicielles évolutives",
+    "robots": "index, follow",
+    "ogTitle": "Cong Pham | Ingénieur logiciel et créateur de solutions évolutives",
+    "ogDescription": "Découvrez le portfolio et les projets de Cong Pham, un expert dans le développement d'applications évolutives avec un impact significatif.",
+    "twitterTitle": "Cong Pham | Ingénieur logiciel et développeur certifié AWS",
+    "twitterDescription": "Explorez le parcours de Cong Pham dans la création d'applications web et mobiles élégantes et évolutives, ainsi que son expérience chez dbt Labs, SailPoint, Citigroup et bien plus."
   }
 }

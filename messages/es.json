@@ -67,5 +67,25 @@
     "Title 1": "Ya sea una oportunidad de trabajo, una charla de café,",
     "Title 2": "o simplemente una conversación amistosa, ¡no dudes en contactarme!",
     "Send Email": "Enviar correo"
+  },
+  "Metadata": {
+    "title": "Cong Pham | Creando Soluciones de Software Escalables y Eficaces",
+    "description": "Cong Pham es un desarrollador web que crea aplicaciones web y móviles escalables y elegantes con un impacto real. Le apasiona aprender nuevas tecnologías y compartir su conocimiento a través de blogs.",
+    "applicationName": "Portafolio de Cong Pham",
+    "keywords_1": "Portafolio de Cong Pham",
+    "keywords_2": "Cong Pham ingeniero de software",
+    "keywords_3": "Desarrollo web",
+    "keywords_4": "Aplicaciones móviles",
+    "keywords_5": "Desarrollador certificado por AWS",
+    "keywords_6": "Ingeniero en dbt Labs",
+    "keywords_7": "Desarrollador en SailPoint",
+    "keywords_8": "Desarrollador en Citigroup",
+    "keywords_9": "Desarrollador en Citylitics",
+    "keywords_10": "Soluciones de software escalables",
+    "robots": "index, follow",
+    "ogTitle": "Cong Pham | Ingeniero de Software & Creador de Soluciones Escalables",
+    "ogDescription": "Descubre el portafolio y los proyectos de Cong Pham, un experto en desarrollar aplicaciones escalables con un impacto significativo.",
+    "twitterTitle": "Cong Pham | Ingeniero de Software & Desarrollador Certificado por AWS",
+    "twitterDescription": "Explora el viaje de Cong Pham en la creación de aplicaciones web y móviles elegantes y escalables, y su experiencia en dbt Labs, SailPoint, Citigroup y más."
   }
 }

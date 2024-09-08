@@ -67,5 +67,25 @@
     "Title 1": "Whether it's a job opportunity, a coffee chat,",
     "Title 2": "or just a friendly conversation, feel free to reach out!",
     "Send Email": "Send Email"
+  },
+"Metadata": {
+    "title": "Cong Pham | Crafting Scalable & Impactful Software Solutions",
+    "description": "Cong Pham is a web developer who creates scalable, elegant web and mobile applications that have a real-world impact. He is passionate about learning new technologies and sharing his knowledge through blogging.",
+    "applicationName": "Cong Pham's Portfolio",
+    "keywords_1": "Cong Pham portfolio",
+    "keywords_2": "Cong Pham software engineer",
+    "keywords_3": "web development",
+    "keywords_4": "mobile applications",
+    "keywords_5": "AWS certified developer",
+    "keywords_6": "dbt Labs engineer",
+    "keywords_7": "SailPoint developer",
+    "keywords_8": "Citigroup developer",
+    "keywords_9": "Citylitics developer",
+    "keywords_10": "scalable software solutions",
+    "robots": "index, follow",
+    "ogTitle": "Cong Pham | Software Engineer & Creator of Scalable Solutions",
+    "ogDescription": "Discover the portfolio and projects of Cong Pham, an expert in developing high-impact, scalable applications with a passion for learning and innovation.",
+    "twitterTitle": "Cong Pham | Software Engineer & AWS Certified Developer",
+    "twitterDescription": "Explore Cong Pham's journey in building elegant and scalable web and mobile applications, alongside his experience at dbt Labs, SailPoint, Citigroup, and more."
   }
 }

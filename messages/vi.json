@@ -67,6 +67,26 @@
     "Title 1": "Cho dù đó là một cơ hội việc làm, một lời mời uống cà phê,",
     "Title 2": "hoặc chỉ đơn giản là một cuộc trò chuyện, Hãy liên hệ với tôi!",
     "Send Email": "Gửi Email"
+  },
+  "Metadata": {
+    "title": "Công Phạm | Giải pháp phần mềm mở rộng và hiệu quả",
+    "description": "Công Phạm là một lập trình viên web tạo ra các ứng dụng web và di động mở rộng, tinh tế có tác động thực tế. Anh đam mê học hỏi công nghệ mới và chia sẻ kiến thức thông qua viết blog.",
+    "applicationName": "Hồ sơ Công Phạm",
+    "keywords_1": "Hồ sơ Công Phạm",
+    "keywords_2": "Kỹ sư phần mềm Công Phạm",
+    "keywords_3": "Phát triển web",
+    "keywords_4": "Ứng dụng di động",
+    "keywords_5": "Nhà phát triển chứng nhận AWS",
+    "keywords_6": "Kỹ sư tại dbt Labs",
+    "keywords_7": "Nhà phát triển tại SailPoint",
+    "keywords_8": "Nhà phát triển tại Citigroup",
+    "keywords_9": "Nhà phát triển tại Citylitics",
+    "keywords_10": "Giải pháp phần mềm mở rộng",
+    "robots": "index, follow",
+    "ogTitle": "Công Phạm | Kỹ sư phần mềm & Người sáng tạo giải pháp mở rộng",
+    "ogDescription": "Khám phá hồ sơ và các dự án của Công Phạm, chuyên gia trong việc phát triển các ứng dụng mở rộng và có tác động lớn.",
+    "twitterTitle": "Công Phạm | Kỹ sư phần mềm & Nhà phát triển chứng nhận AWS",
+    "twitterDescription": "Khám phá hành trình của Công Phạm trong việc xây dựng các ứng dụng web và di động tinh tế, mở rộng cùng kinh nghiệm tại dbt Labs, SailPoint, Citigroup và nhiều hơn nữa."
   }
   
 }

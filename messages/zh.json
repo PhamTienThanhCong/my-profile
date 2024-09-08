@@ -67,5 +67,25 @@
     "Title 1": "无论是工作机会、咖啡聊天，",
     "Title 2": "还是仅仅一次友好的对话，请随时联系我！",
     "Send Email": "发送邮件"
+  },
+  "Metadata": {
+    "title": "Cong Fan | 创建可扩展和高效的软件解决方案",
+    "description": "Cong Fan 是一名网页开发人员，擅长创建具有实际影响力的可扩展、优雅的网页和移动应用。他热衷于学习新技术并通过博客分享他的知识。",
+    "applicationName": "Cong Fan 的作品集",
+    "keywords_1": "Cong Fan 作品集",
+    "keywords_2": "Cong Fan 软件工程师",
+    "keywords_3": "网页开发",
+    "keywords_4": "移动应用",
+    "keywords_5": "AWS 认证开发人员",
+    "keywords_6": "dbt Labs 工程师",
+    "keywords_7": "SailPoint 开发人员",
+    "keywords_8": "Citigroup 开发人员",
+    "keywords_9": "Citylitics 开发人员",
+    "keywords_10": "可扩展的软件解决方案",
+    "robots": "index, follow",
+    "ogTitle": "Cong Fan | 软件工程师和可扩展解决方案的创造者",
+    "ogDescription": "探索 Cong Fan 的作品集和项目，他在开发高影响力、可扩展的应用程序方面具有丰富经验。",
+    "twitterTitle": "Cong Fan | 软件工程师 & AWS 认证开发人员",
+    "twitterDescription": "探索 Cong Fan 在构建优雅且可扩展的网页和移动应用程序的旅程，并了解他在 dbt Labs、SailPoint、Citigroup 等公司的经验。"
   }
 }

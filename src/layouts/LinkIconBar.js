@@ -2,7 +2,7 @@ import { colors } from "@/theme";
 import { Icon, Link, Stack, Tooltip, useColorModeValue } from "@chakra-ui/react";
 import React from "react";
 import { BiLink } from "react-icons/bi";
-import { FaDev, FaLinkedin, FaYoutube } from "react-icons/fa";
+import { FaDev, FaFacebook, FaLinkedin, FaPhone, FaTelegramPlane, FaYoutube } from "react-icons/fa";
 import { IoMdDocument } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
 import { VscGithubInverted } from "react-icons/vsc";
@@ -15,7 +15,10 @@ const icons = {
   document: IoMdDocument,
   youtube: FaYoutube,
   blog: FaDev,
-  link: BiLink
+  link: BiLink,
+  phone: FaPhone,
+  telegram: FaTelegramPlane,
+  facebook: FaFacebook
 };
 
 const LinkIcon = ({ index, color, onHoverColor, url, label, icon }) => (

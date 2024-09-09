@@ -10,6 +10,21 @@ const links = [
     url: "https://www.linkedin.com/in/phamtienthanhcong"
   },
   {
+    label: "Skype",
+    icon: "phone",
+    url: "https://join.skype.com/invite/pYZNhp1RWgYr"
+  },
+  {
+    label: "Telegram",
+    icon: "telegram",
+    url: "https://t.me/phamtienthanhcong"
+  },
+  {
+    label: "Facebook",
+    icon: "facebook",
+    url: "https://www.facebook.com/phamtienthanhcong"
+  },
+  {
     label: "Resume",
     icon: "document",
     url: "/resume.pdf"

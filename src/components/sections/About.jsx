@@ -59,7 +59,7 @@ const Headshot = () => (
       zIndex={1}
       className="image"
       onClick={() => {
-        window.open("http://linkedin.com/in/jarrod-servilla");
+        window.open("http://linkedin.com/in/phamtienthanhcong");
       }}
     />
   </GridItem>
